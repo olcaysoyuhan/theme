@@ -7,17 +7,20 @@ baseurl: ''
 disqus: ''
 email: ''
 
+# Google Analytics key, leave blank to ignore
+google_analytics_key:
+
 include: ["_pages"]
 permalink: /:title/
-  
+
 authors:
-    olcay:
-      name:           Olcay
-      site:           
-      avatar:         
-      bio:            
-      email:          
-      twitter:        
+  olcay:
+    name: Olcay
+    site:           
+    avatar:         
+    bio:            
+    email:          
+    twitter:        
 
 # Defaults
 defaults:
@@ -27,7 +30,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: olcay
+      author: 
       avatar: 
       
   # all pages
