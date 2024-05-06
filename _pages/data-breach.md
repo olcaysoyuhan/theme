@@ -1,6 +1,6 @@
 ---
-title: "Privacy Policy"
-permalink: "/privacy-policy.html"
+title: "Veri ihlali bildir"
+permalink: "/data-breach.html"
 ---
 
 "{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.

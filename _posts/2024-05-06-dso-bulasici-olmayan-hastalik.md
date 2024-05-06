@@ -1,14 +1,16 @@
 ---
 layout: post
+author: olcay
 home: true
 title:  "Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Verisi"
-author: olcay
+description: 'Dünya Sağlık Örgütü bulaşıcı olmayan hastalıklar verisi üzerinde yapılmış keşifsel veri analiz çalışması.'
 categories: [ Sağlık ]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WHO_logo.svg/312px-WHO_logo.svg.png
+image-name: 'DSÖ'
 tags: [ DSÖ, Keşifsel veri analizi ]
 ---
 
-> Bulaşıcı olmayan hastalıklar - bunların başında kardiyovasküler hastalıklar (kalp hastalığı ve felç), kanser, diyabet ve kronik solunum yolu hastalıkları - dünyadaki ölümlerin yaklaşık dörtte üçüne neden olmaktadır. Faktörleri sosyal, çevresel, ticari ve genetiktir ve varlıkları küreseldir. Her yıl 70 yaşın altındaki 17 milyon insan bulaşıcı olmayan hastalıklardan ölüyor ve bunların %86'sı düşük ve orta gelirli ülkelerde yaşıyor.[^WHO]
+> Bulaşıcı olmayan hastalıklar - bunların başında kardiyovasküler hastalıklar (kalp hastalığı ve felç), kanser, diyabet ve kronik solunum yolu hastalıkları - dünyadaki ölümlerin yaklaşık dörtte üçüne neden olmaktadır. Faktörleri sosyal, çevresel, ticari ve genetiktir ve varlıkları küreseldir. Her yıl 70 yaşın altındaki 17 milyon insan bulaşıcı olmayan hastalıklardan ölüyor ve bunların %86'sı düşük ve orta gelirli ülkelerde yaşıyor.[^1]
 
 Dünya Sağlık Örgütü (DSÖ) bulaşıcı olmayan hastalıkların önemini bu şekilde belirtiyor ve ciddiye alınması gerekliliğini vurguluyor. Sadece bu bilgiye bakılarak ulusal hedefler oluşturulması ve bu hedefler doğrultusunda kamu ve sivil toplum örgütlerinin beraber hareket etmesiyle milyonlarca insan kurtarılabileceği gerçeği ortaya çıkıyor. Bulaşıcı olmayan hastalıklar ve temel risk faktörleri ise; 
 
@@ -36,4 +38,4 @@ Dünya Sağlık Örgütü (DSÖ) bulaşıcı olmayan hastalıkların önemini bu
 
 
 
-[^[WHO](https://ncdportal.org/)]: Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Veri Portalı
+[^1]: [Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Veri Portalı](https://ncdportal.org/)

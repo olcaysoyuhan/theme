@@ -1,10 +1,10 @@
 # Site
 name: 'Olcay Soyuhan'
-description: ''
+description: ""
 logo: ''
-favicon: ''
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: ''
+disqus: 'olcay_s'
 email: ''
 
 # Google Analytics key, leave blank to ignore
