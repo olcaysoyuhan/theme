@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'olcay-s'
 email: ''
-google_verify: 04jnirQhgDnZjZjWk0IfPIL1vxKhksIxlMG7T_dxdtQ
+google_verify: 04jnirQhgDnZjZjWk0IfPIL1vxKhksIxlMG7T_dxdtQ"
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
@@ -25,7 +25,11 @@ authors:
 
 # Defaults
 defaults:
+  - jekyll-feed
 
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-feed
 
   # all posts
   - scope:
