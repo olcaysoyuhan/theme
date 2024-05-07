@@ -26,10 +26,13 @@ authors:
 # Defaults
 defaults:
   - jekyll-feed
+  - jekyll-sitemap
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
+  - jekyll-sitemap
+
 
   # all posts
   - scope:
