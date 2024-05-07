@@ -1,7 +1,9 @@
 User-Agent: *
-Allow: 
-Disallow: /assets
-Disallow: /_posts
-Disallow: /_pages
-Disallow: /_layouts
-Disallow: /_includes
+Disallow: /assets/
+Disallow: /_posts/
+Disallow: /_pages/
+Disallow: /_layouts/
+Disallow: /_includes/
+Disallow: Gemfile
+Disallow: .gitignore
+Disallow: _config.yml
