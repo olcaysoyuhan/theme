@@ -39,7 +39,7 @@ Dünya Sağlık Örgütü (DSÖ) bulaşıcı olmayan hastalıkların önemini bu
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Cinsiyet</th>
+    <th class="tg-0pky"></th>
     <th class="tg-0pky">Kadın</th>
     <th class="tg-0pky">Erkek</th>
     <th class="tg-0pky">Toplam</th>
@@ -48,42 +48,42 @@ Dünya Sağlık Örgütü (DSÖ) bulaşıcı olmayan hastalıkların önemini bu
 <tbody>
   <tr>
     <td class="tg-0pky">Doğu Akdeniz Bölgesi</td>
-    <td class="tg-0pky">34.727585</td>
-    <td class="tg-0pky">41.989255</td>
-    <td class="tg-0pky">38.761890</td>
+    <td class="tg-0pky">34.72</td>
+    <td class="tg-0pky">41.98</td>
+    <td class="tg-0pky">38.76</td>
   </tr>
   <tr>
     <td class="tg-0pky">Avrupa Bölgesi</td>
-    <td class="tg-0pky">16.593427</td>
-    <td class="tg-0pky">29.440767</td>
-    <td class="tg-0pky">22.841233</td>
+    <td class="tg-0pky">16.59</td>
+    <td class="tg-0pky">29.44</td>
+    <td class="tg-0pky">22.84</td>
   </tr>
   <tr>
     <td class="tg-0pky">Amerika Bölgesi</td>
-    <td class="tg-0pky">25.954332</td>
-    <td class="tg-0pky">30.956415</td>
-    <td class="tg-0pky">28.485078</td>
+    <td class="tg-0pky">25.95</td>
+    <td class="tg-0pky">30.95</td>
+    <td class="tg-0pky">28.48</td>
   </tr>
   <tr>
     <td class="tg-0pky">Afrika Bölgesi</td>
-    <td class="tg-0pky">39.615969</td>
-    <td class="tg-0pky">46.423771</td>
-    <td class="tg-0pky">43.013760</td>
+    <td class="tg-0pky">39.61</td>
+    <td class="tg-0pky">46.42</td>
+    <td class="tg-0pky">43.01</td>
   </tr>
   <tr>
     <td class="tg-0pky">Batı Pasifik Bölgesi</td>
-    <td class="tg-0pky">28.181970</td>
-    <td class="tg-0pky">36.319150</td>
-    <td class="tg-0pky">32.321421</td>
+    <td class="tg-0pky">28.18</td>
+    <td class="tg-0pky">36.31</td>
+    <td class="tg-0pky">32.32</td>
   </tr>
   <tr>
     <td class="tg-0pky">Güneydoğu Asya Bölgesi</td>
-    <td class="tg-0pky">33.149739</td>
-    <td class="tg-0pky">43.054886</td>
-    <td class="tg-0pky">38.332064</td>
+    <td class="tg-0pky">33.14</td>
+    <td class="tg-0pky">43.05</td>
+    <td class="tg-0pky">38.33</td>
   </tr>
 </tbody>
-</table></div>
+</table><center><p class="footnotes">* Değerler % olarak verilmiştir.</p></center></div>
 <br>
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Arşiv'
 permalink: "/archives.html"
 ---
 
