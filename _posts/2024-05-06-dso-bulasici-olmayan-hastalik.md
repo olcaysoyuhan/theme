@@ -6,7 +6,7 @@ title:  "Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Verisi"
 description: 'Dünya Sağlık Örgütü bulaşıcı olmayan hastalıklar verisi üzerinde yapılmış keşifsel veri analiz çalışması.'
 categories: [ Keşifsel Veri Analizi ]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WHO_logo.svg/312px-WHO_logo.svg.png
-image-name: 'DSÖ'
+image-name: 'Dünya Sağlık Örgütü'
 tags: [ DSÖ, Keşifsel veri analizi ]
 ---
 
@@ -59,13 +59,13 @@ Dünya Sağlık Örgütü (DSÖ) bulaşıcı olmayan hastalıkların önemini bu
     <td class="tg-0pky">22.841233</td>
   </tr>
   <tr>
-    <td class="tg-0pky">America Bölgesi</td>
+    <td class="tg-0pky">Amerika Bölgesi</td>
     <td class="tg-0pky">25.954332</td>
     <td class="tg-0pky">30.956415</td>
     <td class="tg-0pky">28.485078</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Africa Bölgesi</td>
+    <td class="tg-0pky">Afrika Bölgesi</td>
     <td class="tg-0pky">39.615969</td>
     <td class="tg-0pky">46.423771</td>
     <td class="tg-0pky">43.013760</td>
