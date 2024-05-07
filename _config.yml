@@ -9,7 +9,7 @@ email: ''
 google_verify: 04jnirQhgDnZjZjWk0IfPIL1vxKhksIxlMG7T_dxdtQ"
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key:
+google_analytics_key: G-NGWN492CY9
 
 include: ["_pages"]
 permalink: /:title/
