@@ -28,14 +28,64 @@ Dünya Sağlık Örgütü (DSÖ) bulaşıcı olmayan hastalıkların önemini bu
 
 ### Bulaşıcı olmayan hastalıklardan erken ölüm olasılığı (2019)
 
-| Cinsiyet |    Doğu Akdeniz Bölgesi   | Avrupa Bölgesi | America Bölgesi | Africa Bölgesi | Batı Pasifik Bölgesi | Güneydoğu Asya Bölgesi |
-| ----------- | ----------- | ----------- | ----------- | ----------- |----------- | ----------- |
-| Kadın      | 34.727585      | 16.593427       | 25.954332   | 39.615969        | 28.181970   | 33.149739        |
-| Erkek      | 41.989255   | 29.440767        | 30.956415   | 46.423771        | 36.319150   | 43.054886        |
-| Toplam      | 38.761890      | 22.841233       | 28.485078   | 43.013760        | 32.321421   | 38.332064        |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Cinsiyet</th>
+    <th class="tg-0pky">Kadın</th>
+    <th class="tg-0pky">Erkek</th>
+    <th class="tg-0pky">Toplam</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Doğu Akdeniz Bölgesi</td>
+    <td class="tg-0pky">34.727585</td>
+    <td class="tg-0pky">41.989255</td>
+    <td class="tg-0pky">38.761890</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Avrupa Bölgesi</td>
+    <td class="tg-0pky">16.593427</td>
+    <td class="tg-0pky">29.440767</td>
+    <td class="tg-0pky">22.841233</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">America Bölgesi</td>
+    <td class="tg-0pky">25.954332</td>
+    <td class="tg-0pky">30.956415</td>
+    <td class="tg-0pky">28.485078</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Africa Bölgesi</td>
+    <td class="tg-0pky">39.615969</td>
+    <td class="tg-0pky">46.423771</td>
+    <td class="tg-0pky">43.013760</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Batı Pasifik Bölgesi</td>
+    <td class="tg-0pky">28.181970</td>
+    <td class="tg-0pky">36.319150</td>
+    <td class="tg-0pky">32.321421</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Güneydoğu Asya Bölgesi</td>
+    <td class="tg-0pky">33.149739</td>
+    <td class="tg-0pky">43.054886</td>
+    <td class="tg-0pky">38.332064</td>
+  </tr>
+</tbody>
+</table></div>
+<br>
 
+---
 
-
-
-
-[^1]: [Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Veri Portalı](https://ncdportal.org/)
+[^1]: [Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Veri Portalı](https://ncdportal.org/) 

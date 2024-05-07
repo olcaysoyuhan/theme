@@ -4,8 +4,8 @@ description: ""
 logo: ''
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'olcay_s'
-email: 'olcay.alcatel@gmail.com'
+disqus: 'olcay-s'
+email: ''
 
 # Google Analytics key, leave blank to ignore
 google_analytics_key:
@@ -24,6 +24,7 @@ authors:
 
 # Defaults
 defaults:
+
 
   # all posts
   - scope:
