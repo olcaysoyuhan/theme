@@ -4,7 +4,7 @@ author: olcay
 home: true
 title:  "Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Verisi"
 description: 'Dünya Sağlık Örgütü bulaşıcı olmayan hastalıklar verisi üzerinde yapılmış keşifsel veri analiz çalışması.'
-categories: [ Sağlık ]
+categories: [ Keşifsel Veri Analizi ]
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WHO_logo.svg/312px-WHO_logo.svg.png
 image-name: 'DSÖ'
 tags: [ DSÖ, Keşifsel veri analizi ]
