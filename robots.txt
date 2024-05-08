@@ -1,11 +1,3 @@
-User-Agent: *
-Disallow: /assets/
-Disallow: /_posts/
-Disallow: /_pages/
-Disallow: /_layouts/
-Disallow: /_includes/
-Disallow: Gemfile
-Disallow: .gitignore
-Disallow: _config.yml
+User-agent: *
 
-Sitemap: https://olcaysoyuhan.github.io/sitemap.xml
+Sitemap: {{site.baseurl}}/sitemap.xml
