@@ -7,7 +7,5 @@ Disallow: /_includes/
 Disallow: Gemfile
 Disallow: .gitignore
 Disallow: _config.yml
-Disallow: sitemap.xml
-Disallow: feed.xml
 
 Sitemap: https://olcaysoyuhan.github.io/sitemap.xml
