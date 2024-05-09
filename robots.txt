@@ -9,4 +9,5 @@ Disallow: /_includes/
 Disallow: Gemfile.lock
 Disallow: .gitignore
 Disallow: _config.yml
-Sitemap: /sitemap.xml
+
+Sitemap: sitemap.xml
