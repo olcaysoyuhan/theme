@@ -5,8 +5,9 @@ home: true
 title:  "Dünya Sağlık Örgütü Bulaşıcı Olmayan Hastalıklar Verisi"
 description: 'Dünya Sağlık Örgütü bulaşıcı olmayan hastalıklar verisi üzerinde yapılmış keşifsel veri analiz çalışması.'
 categories: [ Keşifsel Veri Analizi ]
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WHO_logo.svg/312px-WHO_logo.svg.png
-image-name: 'Dünya Sağlık Örgütü'
+image: https://images.unsplash.com/photo-1504813184591-01572f98c85f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+footnotes: 'Photo by <a href="https://unsplash.com/@gpiron?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Piron Guillaume</a> on <a href="https://unsplash.com/photos/medical-professionals-working-U4FyCp3-KzY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  '
 tags: [ DSÖ, Keşifsel veri analizi ]
 ---
 
