@@ -6,7 +6,7 @@ title:  "A.B.D. Sektörel Yenilenebilir Enerji Kaynakları Kullanımı"
 description: 'A.B.D. sektörel ölçekte 1973 - 2024 yılları arasında yenilenebilir enerji kaynaklarının kullanımına ait inceleme.'
 categories: [ Keşifsel Veri Analizi ]
 image: assets/images/post_images/arteum-ro-ZYu6P9-Glic-unsplash.jpg
-footnotes: 'Photo by <a href="https://unsplash.com/@arteum?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Arteum.ro</a> on <a href="https://unsplash.com/photos/photo-of-wind-turbines-on-green-grass-ZYu6P9-Glic?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
+footnotes: 'Photo by <a href="https://unsplash.com/@arteum?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Arteum.ro</a> on <a href="https://unsplash.com/photos photo-of-wind-turbines-on-green-grass-ZYu6P9-Glic?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 tags: [ Yenilenebilir Enerji, Keşifsel veri analizi ]
 ---
 
